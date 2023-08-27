@@ -47,8 +47,6 @@ footer {
 
 .set {
   margin: 10% auto;
-  
-
 }
 
 .game-over {
@@ -81,4 +79,5 @@ footer {
   text-align: center;
   margin: 10px;
   background-color: rgb(250, 224, 224);
+  cursor: pointer;
 }
